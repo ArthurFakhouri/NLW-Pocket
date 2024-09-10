@@ -1,5 +1,5 @@
 ### 🌐 PT-BR
-#### [EN-US]()
+#### [EN-US](https://github.com/ArthurFakhouri/NLW-Pocket/blob/main/server/READMEENUS.md)
 
 <h1 align="center">
     <img alt="NLW Pocket logo" title="#NLW-Pocket-logo" src="../.github/logo.svg" width="250px" />
