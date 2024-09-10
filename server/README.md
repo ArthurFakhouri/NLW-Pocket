@@ -42,3 +42,15 @@ npx drizzle-kit migrate
 ### Executar o Drizzle Studio
 npx drizzle-kit studio
 
+## 🚀 Tecnologias
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [NodeJS](https://nodejs.org)
+- [Fastify](https://fastify.dev)
+- [DrizzleORM](https://nodejs.org/pt)
+- [Typescript](https://www.typescriptlang.org)
+- [PostgreSQL](https://www.postgresql.org)
+- [Docker](https://www.docker.com)
+- [BiomeJS](https://biomejs.dev)
+- [Zod](https://zod.dev)
