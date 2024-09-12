@@ -1,50 +1,54 @@
-# React + TypeScript + Vite
+### 🌐 PT-BR
+#### [EN-US]()
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">
+    <img alt="in.orbit" title="#in.orbit" src="../github/logo.svg" width="250px" />
+</h1>
 
-Currently, two official plugins are available:
+<h4 align="center"> 
+	:heavy_check_mark: 🚀 In.Orbit 🚀 :heavy_check_mark:
+</h4>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## Expanding the ESLint configuration
+## 🈸 Projeto
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+O projeto é um site desktop de registro de metas com progresso semanal. Esse é um projeto do evento NLW Pocket Javascript, um dos conteúdos disponíveis para alunos da Rocketseat.
 
-- Configure the top-level `parserOptions` property like this:
+<b>Funcionalidades:</b>
+- Criar uma meta;
+- Marcar meta como completa;
+- Desfazer meta completada;
+- Consultar metas pendentes;
+- Consultar metas concluídas;
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## 🔧 Como executar
+Vá para a pasta em que você clonou o projeto, abra o terminal e execute os comandos:
+- 01 - cd web
+- 02 - npm install (Esse comando instalará todas as dependências do projeto)
+- 03 - npm run dev (Esse comando irá rodar projeto em: http://localhost:5173)
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+## 📽️ Demonstração
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+## 🚀 Tecnologias
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [React](https://reactjs.org)
+- [Vite](https://vitejs.dev)
+- [TailwindCSS](https://tailwindcss.com)
+- [Tanstack-React-Query](https://tanstack.com/query/latest)
+- [Zod](https://zod.dev)
+- [DayJS](https://day.js.org)
+- [Typescript](https://www.typescriptlang.org)
+- [Lucide React](https://lucide.dev)
+
+## :memo: Licença
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA](LICENSE) para obter detalhes.
