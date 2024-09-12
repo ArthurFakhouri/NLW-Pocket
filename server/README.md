@@ -55,3 +55,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Docker](https://www.docker.com)
 - [BiomeJS](https://biomejs.dev)
 - [Zod](https://zod.dev)
+
+## :memo: Licença
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA](../LICENSE) para obter detalhes.
