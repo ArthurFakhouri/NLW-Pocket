@@ -1,5 +1,5 @@
 ### 🌐 PT-BR
-#### [EN-US]()
+#### [EN-US](https://github.com/ArthurFakhouri/NLW-Pocket/blob/main/web/READMEENUS.md)
 
 <h1 align="center">
     <img alt="in.orbit" title="#in.orbit" src="../.github/logo.svg" width="250px" />
@@ -51,4 +51,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Lucide React](https://lucide.dev)
 
 ## :memo: Licença
-Este projeto está sob a licença do MIT. Consulte a [LICENÇA](LICENSE) para obter detalhes.
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA](../LICENSE) para obter detalhes.
