@@ -13,8 +13,9 @@ O projeto é um site desktop de registro de metas com progresso semanal. Esse é
 
 - [ ✅ ] O organizador deve poder cadastrar uma nova meta;
 - [ ✅ ] O organizador deve poder marcar uma meta como concluída;
-- [  ] O organizador deve poder visualizar o resumo semanal de metas;
-- [  ] O organizador deve poder visualizar todas as metas da semana, sendo concluídas ou não;
+- [ ✅ ] O organizador deve poder desmarcar uma meta concluída;
+- [ ✅ ] O organizador deve poder visualizar o resumo semanal de metas;
+- [ ✅ ] O organizador deve poder visualizar todas as metas da semana, sendo concluídas ou não;
 
 ### Regras de negócio
 
