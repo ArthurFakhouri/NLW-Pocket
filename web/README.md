@@ -37,6 +37,10 @@ Vá para a pasta em que você clonou o projeto, abra o terminal e execute os com
 ## 📽️ Demonstração
 
 
+https://github.com/user-attachments/assets/38c9e857-1af9-49d5-a1cc-725b162266b9
+
+
+
 ## 🚀 Tecnologias
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
