@@ -56,3 +56,5 @@ The project was developed using the following technologies:
 - [BiomeJS](https://biomejs.dev)
 - [Zod](https://zod.dev)
 
+## :memo: License
+This project is under the MIT license. Consult the [LICENSE](../LICENSE) for details.
