@@ -2,7 +2,7 @@
 #### [EN-US]()
 
 <h1 align="center">
-    <img alt="in.orbit" title="#in.orbit" src="../github/logo.svg" width="250px" />
+    <img alt="in.orbit" title="#in.orbit" src="../.github/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center"> 
