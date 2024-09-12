@@ -13,8 +13,9 @@ The project is a desktop goal tracking website with weekly progress. This is a p
 
 - [ ✅ ] The organizer must be able to register a new goal;
 - [ ✅ ] The organizer must be able to mark a goal as completed;
-- [  ] The organizer must be able to view the weekly summary of goals;
-- [  ] The organizer must be able to view all goals for the week, whether completed or not;
+- [ ✅ ] The organizer must be able to unset completed goal;
+- [ ✅ ] The organizer must be able to view the weekly summary of goals;
+- [ ✅ ] The organizer must be able to view all goals for the week, whether completed or not;
 
 ### Business rules
 
