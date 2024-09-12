@@ -51,4 +51,4 @@ The project was developed using the following technologies:
 - [Lucide React](https://lucide.dev)
 
 ## :memo: License
-This project is under the MIT license. Consult the LICENSE for details.
+This project is under the MIT license. Consult the [LICENSE](../LICENSE) for details.
